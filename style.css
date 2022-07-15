@@ -1,0 +1,28 @@
+#score{
+font-size: 30px;
+margin-left: 30px;
+}
+
+#show_sketch{
+margin-left: 300px;
+}
+
+#bg
+{
+background-color: blue;
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 30px;
+float: right;
+margin-right: 300px;
+}
+
+#sketch_d{
+    text-decoration-color: darkorange;
+}
